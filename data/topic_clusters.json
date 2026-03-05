@@ -1,0 +1,78 @@
+[
+  {
+    "cluster": "AI",
+    "keywords": [
+      "ai",
+      "model",
+      "llm",
+      "agent",
+      "openai",
+      "anthropic"
+    ]
+  },
+  {
+    "cluster": "Space",
+    "keywords": [
+      "space",
+      "nasa",
+      "satellite",
+      "rocket",
+      "orbit",
+      "moon",
+      "mars"
+    ]
+  },
+  {
+    "cluster": "Biotech",
+    "keywords": [
+      "biotech",
+      "gene",
+      "crispr",
+      "drug",
+      "biology",
+      "protein",
+      "longevity"
+    ]
+  },
+  {
+    "cluster": "Robotics",
+    "keywords": [
+      "robot",
+      "automation",
+      "autonomous",
+      "factory",
+      "drone"
+    ]
+  },
+  {
+    "cluster": "Climate",
+    "keywords": [
+      "climate",
+      "carbon",
+      "battery",
+      "solar",
+      "fusion",
+      "energy",
+      "grid"
+    ]
+  },
+  {
+    "cluster": "Quantum",
+    "keywords": [
+      "quantum",
+      "qubit",
+      "superconduct",
+      "photonic"
+    ]
+  },
+  {
+    "cluster": "Compute Infrastructure",
+    "keywords": [
+      "chip",
+      "semiconductor",
+      "datacenter",
+      "gpu",
+      "compute"
+    ]
+  }
+]

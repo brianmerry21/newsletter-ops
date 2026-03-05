@@ -1,0 +1,402 @@
+[
+  {
+    "trope_id": "t001",
+    "trope_name": "The Long Now",
+    "works": [
+      "Foundation"
+    ],
+    "summary": "Civilizations plan in millennia.",
+    "lesson_prompt": "What decisions make sense over 20 years?",
+    "capitalize_prompt": "Turn long-horizon planning into present strategy."
+  },
+  {
+    "trope_id": "t002",
+    "trope_name": "Dyson Swarm",
+    "works": [
+      "Star Maker"
+    ],
+    "summary": "Energy abundance from orbital infrastructure.",
+    "lesson_prompt": "How does cheap energy change markets?",
+    "capitalize_prompt": "Reframe energy constraint as coordination problem."
+  },
+  {
+    "trope_id": "t003",
+    "trope_name": "Moonshot Bureaucracy",
+    "works": [
+      "The Expanse"
+    ],
+    "summary": "Institutions can execute audacious technical missions.",
+    "lesson_prompt": "Which regulation can accelerate deployment?",
+    "capitalize_prompt": "Treat policy as an operating system."
+  },
+  {
+    "trope_id": "t004",
+    "trope_name": "Post-Scarcity Islands",
+    "works": [
+      "Culture"
+    ],
+    "summary": "Localized abundance appears before global abundance.",
+    "lesson_prompt": "Where can abundance emerge first?",
+    "capitalize_prompt": "Find beachheads where costs collapse."
+  },
+  {
+    "trope_id": "t005",
+    "trope_name": "Augmented Cognition",
+    "works": [
+      "Neuromancer"
+    ],
+    "summary": "Humans plus tools outperform either alone.",
+    "lesson_prompt": "Which workflows gain from cognitive copilots?",
+    "capitalize_prompt": "Design for human leverage not replacement."
+  },
+  {
+    "trope_id": "t006",
+    "trope_name": "Orbital Logistics",
+    "works": [
+      "Seveneves"
+    ],
+    "summary": "Space supply chains unlock downstream industries.",
+    "lesson_prompt": "What bottleneck in logistics is now software?",
+    "capitalize_prompt": "View transport as compounding infrastructure."
+  },
+  {
+    "trope_id": "t007",
+    "trope_name": "Synthetic Biology Platforms",
+    "works": [
+      "The Windup Girl"
+    ],
+    "summary": "Programmable biology creates repeatable products.",
+    "lesson_prompt": "Where are bio-tools becoming platform layers?",
+    "capitalize_prompt": "Shift from bespoke science to scalable stacks."
+  },
+  {
+    "trope_id": "t008",
+    "trope_name": "Terraforming Mindset",
+    "works": [
+      "Red Mars"
+    ],
+    "summary": "Persistent iteration can reshape harsh environments.",
+    "lesson_prompt": "What harsh market can be made habitable?",
+    "capitalize_prompt": "Adopt infrastructure patience."
+  },
+  {
+    "trope_id": "t009",
+    "trope_name": "Robot Commons",
+    "works": [
+      "I, Robot"
+    ],
+    "summary": "Robots become ubiquitous shared infrastructure.",
+    "lesson_prompt": "Which tasks are ripe for robotic utilities?",
+    "capitalize_prompt": "Sell outcomes not robots."
+  },
+  {
+    "trope_id": "t010",
+    "trope_name": "Climate Adaptation Mesh",
+    "works": [
+      "Ministry for the Future"
+    ],
+    "summary": "Networks of local interventions build resilience.",
+    "lesson_prompt": "Which adaptation wins are measurable now?",
+    "capitalize_prompt": "Prioritize practical resilience loops."
+  },
+  {
+    "trope_id": "t011",
+    "trope_name": "Fusion Dawn",
+    "works": [
+      "Project Hail Mary"
+    ],
+    "summary": "Breakthrough energy timelines can compress quickly.",
+    "lesson_prompt": "What downstream systems need readiness?",
+    "capitalize_prompt": "Prepare for upside before certainty."
+  },
+  {
+    "trope_id": "t012",
+    "trope_name": "AI Control Rooms",
+    "works": [
+      "Snow Crash"
+    ],
+    "summary": "Operators manage fleets of semi-autonomous agents.",
+    "lesson_prompt": "Which domain needs orchestration layers?",
+    "capitalize_prompt": "Build command surfaces for trust."
+  },
+  {
+    "trope_id": "t013",
+    "trope_name": "Quantum Supply Chain",
+    "works": [
+      "Permutation City"
+    ],
+    "summary": "Exotic compute alters specific bottlenecks first.",
+    "lesson_prompt": "Which narrow jobs need quantum edge?",
+    "capitalize_prompt": "Target constrained niches before broad claims."
+  },
+  {
+    "trope_id": "t014",
+    "trope_name": "Edge Intelligence",
+    "works": [
+      "Accelerando"
+    ],
+    "summary": "Computation moves to the physical edge.",
+    "lesson_prompt": "Where does latency create business pain?",
+    "capitalize_prompt": "Treat milliseconds as product features."
+  },
+  {
+    "trope_id": "t015",
+    "trope_name": "Autonomous Factories",
+    "works": [
+      "The Diamond Age"
+    ],
+    "summary": "Factories self-optimize with software and sensors.",
+    "lesson_prompt": "What production line can self-heal?",
+    "capitalize_prompt": "Instrument before automating."
+  },
+  {
+    "trope_id": "t016",
+    "trope_name": "Digital Twins",
+    "works": [
+      "Rainbows End"
+    ],
+    "summary": "Virtual mirrors reduce real-world risk.",
+    "lesson_prompt": "Which assets justify twin economics?",
+    "capitalize_prompt": "Model systems before capital spend."
+  },
+  {
+    "trope_id": "t017",
+    "trope_name": "Swarm Coordination",
+    "works": [
+      "Ender's Game"
+    ],
+    "summary": "Many simple agents deliver complex outcomes.",
+    "lesson_prompt": "Where is centralized control failing?",
+    "capitalize_prompt": "Use protocols over hierarchy."
+  },
+  {
+    "trope_id": "t018",
+    "trope_name": "Urban Air Mobility",
+    "works": [
+      "The Jetsons"
+    ],
+    "summary": "Aerial transport creates new city topologies.",
+    "lesson_prompt": "What infrastructure follows aerial lanes?",
+    "capitalize_prompt": "Bet on enabling layers."
+  },
+  {
+    "trope_id": "t019",
+    "trope_name": "Water Intelligence",
+    "works": [
+      "Dune"
+    ],
+    "summary": "Water constraints drive innovation and power.",
+    "lesson_prompt": "Which industries pay most for water certainty?",
+    "capitalize_prompt": "Convert scarcity to measurement advantage."
+  },
+  {
+    "trope_id": "t020",
+    "trope_name": "Decentralized Grids",
+    "works": [
+      "Walkaway"
+    ],
+    "summary": "Peer energy networks increase system resilience.",
+    "lesson_prompt": "Where can microgrids beat incumbents?",
+    "capitalize_prompt": "Local generation plus software wins."
+  },
+  {
+    "trope_id": "t021",
+    "trope_name": "Space Manufacturing",
+    "works": [
+      "2312"
+    ],
+    "summary": "Microgravity enables unique material properties.",
+    "lesson_prompt": "Which products gain from orbit production?",
+    "capitalize_prompt": "Differentiate on impossible-on-Earth performance."
+  },
+  {
+    "trope_id": "t022",
+    "trope_name": "Aging Reversal Clinics",
+    "works": [
+      "Altered Carbon"
+    ],
+    "summary": "Longevity tech starts expensive then scales down.",
+    "lesson_prompt": "Which longevity interventions show measurable effect?",
+    "capitalize_prompt": "Focus on biomarkers and proof loops."
+  },
+  {
+    "trope_id": "t023",
+    "trope_name": "Precision Agriculture",
+    "works": [
+      "The Martian"
+    ],
+    "summary": "Data-rich farming closes resource loops.",
+    "lesson_prompt": "What farm inputs can be cut with software?",
+    "capitalize_prompt": "Treat farms as cyber-physical systems."
+  },
+  {
+    "trope_id": "t024",
+    "trope_name": "Carbon Markets 2.0",
+    "works": [
+      "The Ministry for the Future"
+    ],
+    "summary": "Measurement quality defines market trust.",
+    "lesson_prompt": "What verification gap blocks scaling?",
+    "capitalize_prompt": "Win with auditable measurement."
+  },
+  {
+    "trope_id": "t025",
+    "trope_name": "Ocean Computing",
+    "works": [
+      "Startide Rising"
+    ],
+    "summary": "Oceans become compute and energy frontiers.",
+    "lesson_prompt": "Which marine constraints are now solvable?",
+    "capitalize_prompt": "Pair hardware ruggedization with software ops."
+  },
+  {
+    "trope_id": "t026",
+    "trope_name": "Neurointerfaces",
+    "works": [
+      "Ghost in the Shell"
+    ],
+    "summary": "Interfaces between brains and machines mature gradually.",
+    "lesson_prompt": "Which medical use-cases de-risk consumer paths?",
+    "capitalize_prompt": "Start clinical then expand."
+  },
+  {
+    "trope_id": "t027",
+    "trope_name": "Trustless Records",
+    "works": [
+      "Cryptonomicon"
+    ],
+    "summary": "Immutable records reduce coordination friction.",
+    "lesson_prompt": "Where is reconciliation the core cost?",
+    "capitalize_prompt": "Remove paperwork from value chains."
+  },
+  {
+    "trope_id": "t028",
+    "trope_name": "Geoengineering Pilots",
+    "works": [
+      "Termination Shock"
+    ],
+    "summary": "Pilot programs test planetary-scale interventions.",
+    "lesson_prompt": "Which local pilots have global learning value?",
+    "capitalize_prompt": "Stage risk with strict measurement."
+  },
+  {
+    "trope_id": "t029",
+    "trope_name": "AI Tutors",
+    "works": [
+      "Diamond Age"
+    ],
+    "summary": "Personalized tutoring scales with software.",
+    "lesson_prompt": "Where do learning outcomes lag despite spend?",
+    "capitalize_prompt": "Optimize for mastery, not content volume."
+  },
+  {
+    "trope_id": "t030",
+    "trope_name": "Cyber-Physical Security",
+    "works": [
+      "Daemon"
+    ],
+    "summary": "Attacks cross digital and physical boundaries.",
+    "lesson_prompt": "Which operations need integrated defense?",
+    "capitalize_prompt": "Secure process, not only endpoints."
+  },
+  {
+    "trope_id": "t031",
+    "trope_name": "Biofoundries",
+    "works": [
+      "Genesis"
+    ],
+    "summary": "Automated labs accelerate iteration cycles.",
+    "lesson_prompt": "Where can lab robotics cut cycle time?",
+    "capitalize_prompt": "Increase experiment throughput first."
+  },
+  {
+    "trope_id": "t032",
+    "trope_name": "Satellite Mesh",
+    "works": [
+      "Earthlight"
+    ],
+    "summary": "Dense constellations create real-time Earth insight.",
+    "lesson_prompt": "Which industries buy freshness of data?",
+    "capitalize_prompt": "Monetize latency and coverage."
+  },
+  {
+    "trope_id": "t033",
+    "trope_name": "Regenerative Materials",
+    "works": [
+      "The Peripheral"
+    ],
+    "summary": "New materials decouple growth from waste.",
+    "lesson_prompt": "What legacy materials face replacement risk?",
+    "capitalize_prompt": "Compete on lifecycle economics."
+  },
+  {
+    "trope_id": "t034",
+    "trope_name": "Synthetic Media Infrastructure",
+    "works": [
+      "Idoru"
+    ],
+    "summary": "Media generation becomes programmable infrastructure.",
+    "lesson_prompt": "Where does content ops need reliability?",
+    "capitalize_prompt": "Build tooling that guarantees provenance."
+  },
+  {
+    "trope_id": "t035",
+    "trope_name": "Reskilling Economies",
+    "works": [
+      "Player Piano"
+    ],
+    "summary": "Automation shifts labor, creating training markets.",
+    "lesson_prompt": "Which roles are transitioning fastest?",
+    "capitalize_prompt": "Own onboarding to new toolchains."
+  },
+  {
+    "trope_id": "t036",
+    "trope_name": "Medical AI Ops",
+    "works": [
+      "Beggars in Spain"
+    ],
+    "summary": "Clinical systems need operational AI, not demos.",
+    "lesson_prompt": "Which workflow has measurable throughput pain?",
+    "capitalize_prompt": "Integrate into clinician reality."
+  },
+  {
+    "trope_id": "t037",
+    "trope_name": "Autonomous Shipping",
+    "works": [
+      "Neptune's Brood"
+    ],
+    "summary": "Shipping digitizes and self-optimizes.",
+    "lesson_prompt": "Where do delays destroy margin?",
+    "capitalize_prompt": "Bundle telemetry with routing intelligence."
+  },
+  {
+    "trope_id": "t038",
+    "trope_name": "Resilient Semiconductors",
+    "works": [
+      "A Deepness in the Sky"
+    ],
+    "summary": "Compute demand stresses fabrication ecosystems.",
+    "lesson_prompt": "Which supply chokepoint can software ease?",
+    "capitalize_prompt": "Exploit inefficiency in planning layers."
+  },
+  {
+    "trope_id": "t039",
+    "trope_name": "Civic Compute",
+    "works": [
+      "Infomocracy"
+    ],
+    "summary": "Public systems adopt modern digital infrastructure.",
+    "lesson_prompt": "Which civic service can be API-first?",
+    "capitalize_prompt": "Government tech can be a growth market."
+  },
+  {
+    "trope_id": "t040",
+    "trope_name": "Planetary Sensing",
+    "works": [
+      "Contact"
+    ],
+    "summary": "Global sensing changes decisions at every scale.",
+    "lesson_prompt": "Which decisions improve with better telemetry?",
+    "capitalize_prompt": "Turn observation into action loops."
+  }
+]

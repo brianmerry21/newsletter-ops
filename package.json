@@ -1,0 +1,26 @@
+{
+  "name": "2045-engine",
+  "version": "1.0.0",
+  "description": "Automated newsletter engine for discover → select → write → publish workflow",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js run-once",
+    "weekly": "node index.js weekly",
+    "micro": "node index.js micro",
+    "migrate": "node db/migrate.js",
+    "dev": "node index.js weekly"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "node-cron": "^3.0.3",
+    "pg": "^8.13.1",
+    "rss-parser": "^3.13.0",
+    "turndown": "^7.2.0",
+    "zod": "^3.24.1"
+  }
+}
